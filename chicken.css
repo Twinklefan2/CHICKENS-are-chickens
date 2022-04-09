@@ -12,6 +12,65 @@ font-family: 'Marmelad'; */
   margin-top: 0;
   background-image: url("../chickenImages/chick2.webp");
 }
+* { margin: 0;}
+/* PARALLAX */
+.para {
+  background-color: #cccccc;
+  height: 680px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+/* NAVBAR */
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F2F0D0;
+  border: 1px solid #F2DA63;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #556573;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #F2DA63;
+  color: #556573;
+}
+.active {
+	background-color: #F2DA63;
+    color: #556573;
+}
+/* TITLES */
+.title {
+  color: #F2DA63;
+  font-size: 7vw;
+  font-family: 'Macondo';
+  position: absolute;
+  top: 10%;
+  left: 10%
+}
+.subTitle {
+  color: #F2DA63;
+  font-size: 4vw;
+  font-family: 'Marmelad', sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+/* FOOTER */
+footer { background-color: ; padding: 10px;}
+a { text-decoration: none;}
+.name { padding: 10px; font-size: 2vw; font-family: 'Yantramanav';}
 
 /* DANCE */
 #danceDiv {
