@@ -1,0 +1,243 @@
+/* font-family: 'Yantramanav';
+font-family: 'Marmelad'; */
+/* yellow - #F2DA63 */
+/* dark blue - #556573 */
+/* cream - #F2F0D0 */
+/* grey - #A6926D */
+/* brown - #A65221 */
+* {margin: 0;}
+
+/* TITLE & TEXT */
+#titleImage {
+  margin-top: 0;
+  background-image: url("../chickenImages/chick2.webp");
+}
+
+/* DANCE */
+#danceDiv {
+text-align: right;
+position: relative;
+background-color: #F2F0D0;
+height: 595px;
+width: 100%;
+background-size: cover
+}
+#danceImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 15%;
+  right: 10%;
+  width: 35vw;
+  height: auto;
+}
+/* FOOD */
+#foodDiv {
+  position: relative;
+  height: 595px;
+  width: 100%;
+  background-color: #556573;
+  background-size: cover;
+}
+#foodImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 25%;
+  right: 15%;
+  width: 30vw;
+  height: auto;
+}
+/* RUNNING */
+#runDiv {
+  text-align: right;
+  position: relative;
+  background-color: #F2F0D0;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#runImg {
+  position: absolute;
+  top: 10%;
+  right: 5%;
+  width: 40vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* WALKING */
+#walkDiv{
+  text-align: right;
+  position: relative;
+  background-color: #556573;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#walkImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 25%;
+  right: 15%;
+  width: 30vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* HELLO */
+#jumpDiv{
+  text-align: right;
+  position: relative;
+  background-color: #F2F0D0;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#jumpImg {
+  border-radius: 10%;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  width: 50vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* SQUAWK */
+#squawkDiv{
+  text-align: right;
+  position: relative;
+  background-color: #556573;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#squawkImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 25%;
+  right: 10%;
+  width: 30vw;
+  height: auto;
+}
+/* HELLO */
+#helloDiv{
+  text-align: right;
+  position: relative;
+  background-color: #F2F0D0;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#helloImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 5%;
+  right: 15%;
+  width: 30vw;
+  height: auto;
+}
+
+/* PHONE */
+#phoneDiv{
+  text-align: right;
+  position: relative;
+  background-color: #556573;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#phoneImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 12%;
+  right: 10%;
+  width: 30vw;
+  height: auto;
+}
+/* FLYING */
+#flyDiv{
+  text-align: right;
+  position: relative;
+  background-color: #F2F0D0;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#flyImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 5%;
+  right: 15%;
+  width: 20vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* ANGER */
+#angerDiv{
+  text-align: right;
+  position: relative;
+  background-color: #556573;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#angerImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 15%;
+  right: 15%;
+  width: 30vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* SPIN */
+#spinDiv{
+  text-align: right;
+  position: relative;
+  background-color: #F2F0D0;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#spinImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 15%;
+  right: 15%;
+  width: 30vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* WOW */
+#wowDiv{
+  text-align: right;
+  position: relative;
+  background-color: #556573;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#wowImg {
+  border-radius: 10%;
+  position: absolute;
+  top: 15%;
+  right: 15%;
+  width: 30vw;
+  height: auto;
+  transform: scaleX(-1);
+}
+/* CAT */
+#catDiv{
+  text-align: right;
+  position: relative;
+  background-color: #F2F0D0;
+  height: 595px;
+  width: 100%;
+  background-size: cover;
+}
+#catImg {
+  border-radius: 10%;
+  position: absolute;
+  bottom: 1%;
+  right: 5%;
+  width: 45vw;
+  height: auto;
+  transform: scaleX(-1);
+}
